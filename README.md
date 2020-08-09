@@ -4,6 +4,8 @@
 
 ### Tecnologias e metas
 - [x] Java
+- [x] Spring MVC
+- [x] Spring Boot
 - [x] Maven
 - [x] TDD
 - [x] AWS
