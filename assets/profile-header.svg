@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="376" viewBox="0 0 1280 376" role="img" aria-labelledby="title desc">
+  <title id="title">Luiz Felipe Borges — engenharia de software e arquitetura</title>
+  <desc id="desc">Banner em Obsidian e Warm Frost, com Costura violeta e um fluxo de decisão que termina em laranja, seguindo a identidade INTEIRO.</desc>
+  <rect width="1280" height="376" fill="#0C0D12"/>
+  <g opacity=".55" stroke="#2C2A33" stroke-width="1">
+    <path d="M0 62H1280 M0 314H1280"/>
+    <path d="M64 0V376 M800 0V376 M1250 0V376"/>
+  </g>
+  <g fill="none" stroke="#2C2A33" stroke-width="1" opacity=".42">
+    <path d="M864 62V314 M920 62V314 M976 62V314 M1032 62V314 M1088 62V314 M1144 62V314 M1200 62V314"/>
+    <path d="M800 118H1250 M800 174H1250 M800 230H1250 M800 286H1250"/>
+  </g>
+
+  <!-- Costura: intentional two-pixel seam, never ornamental glow -->
+  <path d="M64 84V292" stroke="#A78BFA" stroke-width="2"/>
+  <circle cx="64" cy="84" r="4" fill="#A78BFA"/>
+  <text x="92" y="104" fill="#A78BFA" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="14" letter-spacing="1.65">ENGINEERING / ARCHITECTURE / DECISIONS</text>
+
+  <text x="90" y="174" fill="#F4F1EA" font-family="Recursive, 'DejaVu Sans', Arial, sans-serif" font-size="65" font-weight="750" letter-spacing="-2.7">LUIZ FELIPE</text>
+  <text x="90" y="244" fill="#F4F1EA" font-family="Recursive, 'DejaVu Sans', Arial, sans-serif" font-size="67" font-weight="750" letter-spacing="-2.8">BORGES</text>
+  <text x="92" y="288" fill="#AAA3A6" font-family="Recursive, 'DejaVu Sans', Arial, sans-serif" font-size="18">Do código à decisão que sustenta o sistema.</text>
+
+  <!-- A decision chain: inquiry and structure in neutral/violet, actual commitment in orange -->
+  <text x="852" y="94" fill="#827C86" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.9">TRADE-OFFS / DELIVERY</text>
+  <path d="M865 137H899V247H929" fill="none" stroke="#827C86" stroke-width="1.5"/>
+  <path d="M899 166H929 M899 206H929" fill="none" stroke="#827C86" stroke-width="1.5"/>
+  <circle cx="899" cy="166" r="3" fill="#827C86"/>
+  <circle cx="899" cy="206" r="3" fill="#827C86"/>
+  <circle cx="899" cy="247" r="3" fill="#A78BFA"/>
+
+  <rect x="931" y="122" width="247" height="34" rx="3" fill="#1A1920" stroke="#45414C"/>
+  <text x="946" y="144" fill="#D0C9C2" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="14">01  QUESTIONAR</text>
+  <rect x="931" y="162" width="247" height="34" rx="3" fill="#1A1920" stroke="#45414C"/>
+  <text x="946" y="184" fill="#D0C9C2" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="14">02  MODELAR</text>
+  <rect x="931" y="202" width="247" height="34" rx="3" fill="#21184A" stroke="#A78BFA"/>
+  <text x="946" y="224" fill="#DDD2FF" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="14">03  VALIDAR</text>
+  <rect x="931" y="242" width="247" height="40" rx="3" fill="#FF9A56"/>
+  <text x="946" y="268" fill="#0C0D12" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="15" font-weight="700">04  ENTREGAR</text>
+  <path d="M1183 262h17m-6 -6l6 6 -6 6" fill="none" stroke="#FF9A56" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="92" y="342" fill="#625D68" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1.5">BORGES360   /   SYSTEMS THAT SURVIVE REALITY</text>
+  <text x="1180" y="342" text-anchor="end" fill="#625D68" font-family="Recursive, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1">INTEIRO / IDS</text>
+</svg>
