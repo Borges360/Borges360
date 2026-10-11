@@ -56,10 +56,6 @@ Um sistema de identidade que não termina na paleta. Transformei decisões visua
 
 A ideia central é simples de dizer e difícil de implementar: **um sistema deve preservar a autoria sem depender da memória de quem o criou**.
 
-### Engenharia agêntica e ferramentas de desenvolvimento
-
-Investigo como tornar agentes de programação mais úteis e verificáveis: orquestração, contexto, roteamento de modelos, uso de ferramentas via MCP, limites operacionais, testes e handoffs. Meu interesse não é automatizar decisões ruins mais rapidamente, mas criar mecanismos para que decisões possam ser **inspecionadas, contestadas e reproduzidas**.
-
 ### Pesquisa aplicada — concorrência em Go
 
 Investiguei empiricamente questões de concorrência, compartilhamento de estado e segurança de acesso em bibliotecas de renderização de fontes do ecossistema Go. O estudo combina experimentação, race detection e análise de trade-offs de API. [Ler o preprint](https://doi.org/10.5281/zenodo.21947657).
